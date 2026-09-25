@@ -17,7 +17,7 @@ Germany by [AB-Tools GmbH](https://www.keynub.com/).
 
 - **[KeyNub-SDK](https://github.com/AB-KeyNub/KeyNub-SDK)**: the license
   dongle SDK. One core C library with a stable ABI, bindings and runnable
-  samples for [36 languages](https://www.keynub.com/developers/), the prebuilt
+  samples for [37 languages](https://www.keynub.com/developers/), the prebuilt
   native libraries for every platform, the wire protocol and the security
   documentation. Bindings and samples are Apache-2.0.
 
